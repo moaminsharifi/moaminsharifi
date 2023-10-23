@@ -1,14 +1,14 @@
-Who is Amin Sharifi?
+# Who is Amin Sharifi?
 
-- Over 4.5 years of experience as Software Engineer.
+- Over 6 years of experience as Software Engineer.
 - Expertise in CloudBase system and backend development.
-- Highly skilled in programming languages: Python/FastAPI, PHP/Laravel, and JavaScript/NestJs.
+- Highly skilled in programming languages: **Python/FastAPI**, **PHP/Laravel**, and **JavaScript/NestJs**.
 - Proven ability to deliver high-performing and scalable applications.
 - Proficient in Agile (Scrum) development methodologies.
 - Established skillset in leading small teams. 
 - Successfully led technology migration to new server for large-scale platform with millions of monthly users.
 - Achieved significant improvements in performance and latency.
-- 
+
 Furthermore, I have been a member of [Rust-Lang Iran Meetup](https://github.com/rust-meetup)'s management team and translator reviewer.
 
 ## 🌐 Socials:
