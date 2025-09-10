@@ -24,7 +24,7 @@
 - Active contributor to the **comprehensive Rust book** and **Iranian Rust community meetings**
 
 ## 🚀 Featured Project: Subtitle Sync
-**[Browser-based Subtitle Editor & Synchronization Tool](https://github.com/moaminsharifi/subtitle-sync)**
+**[Browser-based Subtitle Editor & Synchronization Tool](https://github.com/moaminsharifi/subtitle-flow)**
 
 A powerful, privacy-focused subtitle editing application that runs entirely in the browser:
 
